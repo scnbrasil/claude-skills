@@ -1,2 +1,2 @@
 # claude-skills
-Repositório de skills
+Minhas skills
